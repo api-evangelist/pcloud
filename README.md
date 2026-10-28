@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-pCloud is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://pcloud.com/
+pCloud is a secure cloud storage and file sharing service that lets individuals and businesses store, sync, backup, and access their files from any device. It offers encrypted storage, collaborative sharing, automatic backup, and a suite of tools such as pCloud Transfer, pCloud Save, and pCloud Pass for enhanced security and productivity.
+
+**Areas:** Cloud Storage · File Sync · Backup · Security · Collaboration
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://pcloud.com/)
+- [Documentation](https://docs.pcloud.com/)
+- [Getting started](https://docs.pcloud.com/methods/intro/)
+- [API reference](https://docs.pcloud.com/)
+- [Pricing](https://www.pcloud.com/cloud-storage-pricing-plans)
+- [Support](https://help.pcloud.com/)
+- [Changelog](https://www.pcloud.com/release-notes)
+- [Blog](https://blog.pcloud.com/)
+- [Terms of service](https://www.pcloud.com/terms_and_conditions)
+- [Privacy policy](https://www.pcloud.com/privacy_policy)
+- [GitHub](https://github.com/pCloud)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/pcloud/](https://apis.io/providers/pcloud/).
